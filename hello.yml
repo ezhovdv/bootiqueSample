@@ -1,0 +1,7 @@
+jerseyclient:
+  auth:
+    twitter:
+      type: oauth2
+      tokenUrl: https://api.twitter.com/oauth2/token
+      username: test-edv
+      password: just1moment
